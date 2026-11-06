@@ -1,0 +1,12 @@
+torch>=2.6
+transformers>=4.57.0,<5
+accelerate>=1.5
+peft>=0.15
+bitsandbytes>=0.45
+datasets>=3.2
+pillow>=10
+safetensors>=0.5
+pyyaml>=6
+numpy>=1.26
+sentencepiece>=0.2
+pytest>=8
